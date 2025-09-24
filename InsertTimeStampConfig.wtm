@@ -2,7 +2,7 @@
 <ExternPluginMaker>
     <LastBuildFile>/home/paul/Dropbox/Projects/WhippyTerm/ExternPlugins/DataProcessors/Other/InsertTimeStamp/InsertTimeStamp.wtp</LastBuildFile>
     <LinuxFilename>/home/paul/Dropbox/Projects/WhippyTerm/WhippyTermPlugin_TimeStamp/Linux/InsertTimeStamp.so</LinuxFilename>
-    <WindowsFilename></WindowsFilename>
+    <WindowsFilename>/home/paul/Dropbox/Projects/WhippyTerm/WhippyTermPlugin_TimeStamp/Windows/InsertTimeStamp.dll</WindowsFilename>
     <MacFilename></MacFilename>
     <RPI64Filename></RPI64Filename>
     <RPI32Filename></RPI32Filename>
